@@ -1,0 +1,9 @@
+Create droplet based on: Ubuntu Docker 1.11.2 on 14.04
+log in as root (with your ssh key)
+
+git clone ...
+
+
+etter oracle er startet kan man gå til feks http://139.59.152.175:8080/
+og logge inn med f.eks. apex/oracle ???
+og koble til fra sql developer med system/oracle på 139.59.152.175:1521 XE
